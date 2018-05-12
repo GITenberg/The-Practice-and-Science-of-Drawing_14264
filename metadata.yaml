@@ -1,0 +1,26 @@
+_repo: The-Practice-and-Science-of-Drawing_14264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Speed, Harold
+    birthdate: 1873
+    gutenberg_agent_id: '5439'
+    url: http://www.gutenberg.org/2009/agents/5439
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drawing'
+- !lcc 'NC'
+title: The Practice and Science of Drawing
+url: http://www.gutenberg.org/ebooks/14264
